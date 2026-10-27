@@ -9,3 +9,7 @@ The project focuses on restoring the original mod's features, including customiz
 This project is still under active development. Some features may be missing or incomplete, and bugs or compatibility issues may occur. Future updates will gradually introduce additional content, fixes, and improvements.
 
 **Credits:** All credit for the original Tinkers' Construct goes to **SlimeKnights** and its contributors. This project is unofficial and is not affiliated with or endorsed by the original development team.
+
+## 📥 Download
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge)](https://github.com/Hey-Ender/Tinkers-Construct-Updated/releases/latest)
